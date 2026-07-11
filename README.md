@@ -1,11 +1,28 @@
-<h1 align="center">Hi 👋, I'm Daniel Olatunji</h1>
-<h3 align="center">A Data Analyst</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi, I'm Daniel Olatunji
 
-- 🔭 I work on [Data Analysis Projects](https://github.com/oreoluwadaniel?tab=repositories)
+Data Analyst and Automation Consultant based in Lagos, working with founders and operations teams across Africa, the UK, and Europe.
 
-- 📝 I regularly write articles on [https://medium.com/@oluwafikayore](https://medium.com/@oluwafikayore)
+I help small and mid-sized businesses replace manual reporting and disconnected tools with clean data infrastructure, automated workflows, and dashboards people actually use. My work sits at the intersection of data analysis, BI development, and no-code/low-code automation.
 
-- 💬 Ask me about **Data Analytics, Data Science, Data Storytelling, Data Mining, Data Visualization**
+## What I work on
 
-- 📫 How to reach me **oluwafikayore@gmail.com**
+- Data analysis and EDA in Python (pandas, matplotlib, seaborn) and R
+- Dashboards and reporting in Power BI and Tableau
+- Workflow automation with Make, Zapier, and CRM tooling
+- Market basket analysis, customer segmentation, and supply chain analytics
+
+## Featured projects
+
+- **[SME AI Readiness Checklist](https://github.com/oreoluwadaniel/sme-ai-readiness-checklist)** - a diagnostic framework and downloadable resource for operations leaders assessing whether their business is ready for AI adoption.
+- **[Customer Segmentation Analysis](https://github.com/oreoluwadaniel/Customer-Segmentation)** - K-Means clustering on customer demographic and behavioral data to support targeted marketing.
+- **[Market Basket Analysis](https://github.com/oreoluwadaniel/Market-Basket-Analysis)** - association rule mining on retail transaction data to identify cross-sell and bundling opportunities.
+- **[Supply Chain Analytics](https://github.com/oreoluwadaniel/Supply-Chain)** - revenue, cost, and supplier performance analysis in R.
+
+## Writing
+
+I write about data storytelling and analytics on [Medium](https://medium.com/@oluwafikayore).
+
+## Get in touch
+
+- Email: oluwafikayore@gmail.com
+- LinkedIn: [in/daniel-olatunji](https://www.linkedin.com/in/daniel-olatunji)
