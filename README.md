@@ -1,12 +1,11 @@
 # Hi, I'm Daniel Olatunji
 
-Data Analyst, Business Intelligence Consultant, and Automation Specialist passionate about helping businesses transform data into actionable insights and scalable operational systems.
+Data Analyst & BI Consultant specializing in **data quality, governance, and decision systems** — I turn messy, disconnected data into dashboards, automated workflows, and decisions people can act on.
 
-I design data-driven solutions that enable leadership teams to make faster, smarter decisions by combining analytics, automation, and business intelligence. My work focuses on building enterprise-grade analytics frameworks, decision support systems, and intelligent automation solutions that improve operational efficiency, uncover growth opportunities, and reduce business risks.
+I design data-driven solutions that enable leadership teams to make faster, smarter decisions by combining analytics, automation, and business intelligence. My work focuses on building enterprise-grade analytics frameworks, decision support systems, and intelligent automation solutions that improve operational efficiency, uncover growth opportunities, and reduce business risk.
 
-I work across the intersection of:
+I also work across the broader intersection of:
 
-* Data Analytics
 * Business Intelligence & Decision Support
 * Workflow Automation
 * Revenue & Operations Analytics
@@ -47,72 +46,41 @@ I work across the intersection of:
 * Revenue Intelligence
 * Customer Intelligence & Segmentation
 * Financial & Risk Analytics
-* Supply Chain & Operations Analytics
+* CRM Migration & Data Governance
 * Churn & Retention Analytics
 * Portfolio & Performance Monitoring
 * Business Process Automation
-* Executive Decision Support Systems
 
 ---
 
-## Featured Projects
+## Flagship Case Studies
 
-### SME AI Readiness Framework
+Each one below follows the same discipline: state the business problem, show the data quality issues found, document what the analysis actually showed (including where the first hypothesis was wrong), and end with a decision someone could act on.
 
-A business diagnostic framework designed to help SMEs assess their readiness for AI adoption across operations, people, processes, and technology.
+### [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio)
+Four Excel/Power Query ETL case studies — CRM, HR, inventory, and sales — each built on the same data-quality engine, star-schema model, and exception-routing pipeline.
 
-**Focus Areas**
+### [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
+194K-row omnichannel retail dataset. Caught and corrected a metric definition error (promotional rows being counted as orders) before it reached a KPI.
 
-* AI Readiness Assessment
-* Business Process Evaluation
-* Operational Intelligence
-* Strategic Recommendations
+### [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
+Migrated 7 fragmented CRM exports into a governed Company/Contact/Deal model — deduplication, stage-vocabulary normalization, and an openly documented, unreconciled data gap rather than a flattering number.
 
----
+### [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
+Python/SQL/Power BI pipeline on a 10-stock watchlist. Walk-forward ARIMA backtested against a naive baseline — reported the model as a tie rather than overselling it as a trading signal.
 
-### Customer Segmentation Intelligence Framework
+### [WeatherIntel: Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
+NOAA station warehouse spanning up to 255 years of daily records. XGBoost next-day forecast beat both a persistence and a climatology baseline.
 
-Built using clustering techniques to identify meaningful customer segments based on demographic and behavioral characteristics, enabling more targeted business and marketing strategies.
-
-**Focus Areas**
-
-* Customer Analytics
-* Behavioral Segmentation
-* Data-Driven Marketing
-* Business Intelligence
-
----
-
-### Market Basket Intelligence Framework
-
-An association analysis project designed to uncover purchasing patterns, cross-selling opportunities, and product relationships that support revenue growth initiatives.
-
-**Focus Areas**
-
-* Association Rule Mining
-* Product Intelligence
-* Revenue Optimization
-* Customer Purchase Behavior
-
----
-
-### Supply Chain Intelligence Framework
-
-A supply chain analytics project focused on monitoring supplier performance, operational efficiency, and revenue-related metrics to support strategic decision-making.
-
-**Focus Areas**
-
-* Supply Chain Analytics
-* Performance Monitoring
-* Operational Intelligence
-* Revenue & Cost Analysis
+### [Bloomcrest Revenue Intelligence](https://github.com/oreoluwadaniel/bloomcrest-revenue-intelligence)
+PostgreSQL revenue warehouse plus a HubSpot CRM layer, RFM/CAC/LTV segmentation, and deal-routing automation — a consulting-grade RevOps build on synthetic data.
 
 ---
 
 ## Technical Skills
 
 | Category              | Technologies                                                            |
-| --------------------- | ----------------------------------------------------------------------- |
+| --------------------- | ------------------------------------------------------------------------ |
 | Programming           | SQL, Python, R                                                          |
 | Data Analytics        | Pandas, NumPy, Statistical Analysis                                     |
 | Business Intelligence | Power BI, Tableau                                                       |
@@ -125,9 +93,9 @@ A supply chain analytics project focused on monitoring supplier performance, ope
 
 ## My Approach
 
-I believe analytics should do more than describe what happened—it should help businesses understand why it happened, what is likely to happen next, and what actions should be taken as a result.
+I believe analytics should do more than describe what happened — it should help businesses understand why it happened, what is likely to happen next, and what actions should be taken as a result.
 
-Whether I'm building a revenue intelligence framework, a customer health monitoring system, or an automated reporting workflow, my focus remains the same:
+Whether I'm building a revenue intelligence framework, a customer health monitoring system, or an automated reporting workflow, my focus stays the same:
 
 > Turning data into business intelligence that drives measurable outcomes.
 
@@ -150,6 +118,6 @@ Medium: https://medium.com/@oluwafikayore
 
 ## Let's Connect
 
-* Email: [Danolatunji25@gmail.com](mailto:Danolatunji25@gmail.com)
+* Email: [oluwafikayore@gmail.com](mailto:oluwafikayore@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/daniel-olatunji
 * GitHub: https://github.com/oreoluwadaniel
