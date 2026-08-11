@@ -118,6 +118,6 @@ Medium: https://medium.com/@oluwafikayore
 
 ## Let's Connect
 
-* Email: [oluwafikayore@gmail.com](mailto:oluwafikayore@gmail.com)
+* Email: [danolatunji25@gmail.com](mailto:danolatunji25@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/daniel-olatunji
 * GitHub: https://github.com/oreoluwadaniel
