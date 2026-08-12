@@ -1,48 +1,100 @@
-# Portfolio Map
+# GitHub Portfolio Map
 
-This document explains how the public repositories are organized.
+This file defines how the repositories on this account are grouped for portfolio review.
 
-## Current flagship repositories
+## Start here
 
-These are the repositories to review first when assessing my work:
+These are the projects that best represent my current level of work.
 
-1. `data-analytics-etl-portfolio` - CRM, HR, inventory, and sales ETL with data-quality controls.
-2. `everdale-retail-analytics` - retail revenue, margin, customer, forecasting, and data-quality analysis.
-3. `kavora-crm-migration-data-governance` - CRM migration, normalization, matching, reconciliation, and governance.
-4. `bloomcrest-revenue-intelligence` - PostgreSQL revenue, CRM, customer economics, pipeline, and validation work.
-5. `weatherintel-global-weather-analytics` - NOAA ingestion, PostgreSQL modeling, data-quality auditing, and forecast evaluation.
-6. `stock-performance-risk-monitoring` - market data validation, risk measures, PostgreSQL modeling, and walk-forward forecasting.
-7. `Brightwatt-Operations-Automation` - connected operational workflow design for customer intake, orders, inventory, payments, and field service.
-8. `ab-testing-case-studies` - controlled experiments, statistical testing, uncertainty, and product decisions.
+1. [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
+2. [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
+3. [Bloomcrest Revenue Intelligence](https://github.com/oreoluwadaniel/bloomcrest-revenue-intelligence)
+4. [WeatherIntel Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
+5. [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
+6. [Brightwatt Operations Automation](https://github.com/oreoluwadaniel/Brightwatt-Operations-Automation)
+7. [Data Analytics ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio)
+8. [A/B Testing Case Studies](https://github.com/oreoluwadaniel/ab-testing-case-studies)
 
-## Consolidated domain repositories
+## Supporting portfolios
 
-Some earlier projects were built as separate repositories before the portfolio was reorganized. Where a combined repository now exists, it is the current version.
+These projects add useful domain depth but are not the first projects a recruiter needs to open.
 
-- `credit-risk-banking-portfolio` replaces the separate credit-risk, NPL, roll-rate, loan-default, and fraud case-study repositories as the main credit-risk collection.
-- `oil-gas-analytics-portfolio` groups well economics, pricing and margin, and rig reliability work.
-- `larkmoor-property-portfolio` groups property pricing, rental yield, vacancy, and portfolio optimization work.
-- `saas-analytics-portfolio` groups recurring revenue, product usage, and billing analytics.
-- `insurance-risk-pricing-analytics` groups claims, pricing, fraud, and macroeconomic insurance analysis.
+- [Crestline Inventory Decision Support](https://github.com/oreoluwadaniel/crestline-inventory-decision-support)
+- [Credit Risk Banking Portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio)
+- [Insurance Risk & Pricing Analytics](https://github.com/oreoluwadaniel/insurance-risk-pricing-analytics)
+- [SaaS Analytics Portfolio](https://github.com/oreoluwadaniel/saas-analytics-portfolio)
+- [Stratavax Logistics Analytics](https://github.com/oreoluwadaniel/stratavax-logistics-analytics)
+- [Oil & Gas Analytics Portfolio](https://github.com/oreoluwadaniel/oil-gas-analytics-portfolio)
+- [Larkmoor Property Portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
+- [Maritime Supply Chain SQL Portfolio](https://github.com/oreoluwadaniel/maritime-supply-chain-sql-portfolio)
+- [Pricing Optimization & Demand Modeling](https://github.com/oreoluwadaniel/pricing-optimization-demand-modeling-sql)
+- [SME AI Readiness Assessment](https://github.com/oreoluwadaniel/sme-ai-readiness-checklist)
 
-## Historical repositories
+## Earlier work
 
-Older repositories are kept where they contain useful work or project history. They should not be mistaken for separate current flagship projects when a newer consolidated repository exists.
+These projects remain public as part of the development history of the portfolio. They should not be treated as flagship work.
 
-The current portfolio pages link to the consolidated versions first.
+- [Customer Segmentation](https://github.com/oreoluwadaniel/Customer-Segmentation)
+- [Market Basket Analysis](https://github.com/oreoluwadaniel/Market-Basket-Analysis)
+- [Falcon 9 Landing Prediction EDA](https://github.com/oreoluwadaniel/Falcon-9-Landing-Prediction-EDA)
+- [SpaceX Wrangling](https://github.com/oreoluwadaniel/SpaceX-Wrangling)
+- [Supply Chain](https://github.com/oreoluwadaniel/Supply-Chain)
+- [Global Pandemic Data Storytelling](https://github.com/oreoluwadaniel/Datastorytelling-Project)
 
-## Documentation standard
+## Superseded case-study repositories
 
-Public case studies should make five things clear:
+The following repositories have already been marked in their READMEs as historical copies of work now maintained in a combined portfolio repository.
 
-1. The business question.
-2. The data grain and source.
-3. The checks used to validate the analysis.
-4. What the data actually showed.
-5. What decision the result supports.
+### Credit risk
 
-Claims about measured business results are only made when the repository contains evidence for them. Synthetic projects are identified as synthetic. Designed workflows are not described as deployed systems.
+- `ifrs9-credit-risk-monitoring`
+- `credit-risk-npl-monitoring`
+- `roll-rate-delinquency-migration`
+- `fraud-detection-transaction-monitoring`
+- `credit-risk-loan-default-analysis`
 
-## Language standard
+Canonical repository: [credit-risk-banking-portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio)
 
-Project documentation uses plain business language. It avoids inflated claims, unexplained technical terms, vague descriptions, and statements that imply production deployment when the repository only contains a design or prototype.
+### Property
+
+- `larkmoor-property-pricing-market-intelligence`
+- `larkmoor-rental-yield-portfolio-optimization`
+
+Canonical repository: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
+
+### Oil and gas
+
+- `rig-reliability-sql`
+- `oil-well-production-economics-sql`
+- `oil-gas-pricing-margin-intelligence-sql`
+
+Canonical repository: [oil-gas-analytics-portfolio](https://github.com/oreoluwadaniel/oil-gas-analytics-portfolio)
+
+### HR data quality
+
+- `gtech-hr-power-query-data-cleaning`
+
+Canonical repository: [hr-data-quality-transformation](https://github.com/oreoluwadaniel/hr-data-quality-transformation)
+
+## Reference or third-party repositories
+
+These are not part of my original portfolio work and should not be used to judge my engineering ability.
+
+- `claude-cookbooks`
+- `github-profile-readme-generator`
+- `dashboard-review-skill`
+- `awesome-claude-code-subagents`
+
+Their READMEs now state the ownership or source position clearly.
+
+## Private repositories
+
+These remain private and are not part of the public portfolio:
+
+- `datasciences`
+- `job_scraper_project`
+- `TESTING`
+
+## Curation rule
+
+A recruiter should be able to understand the current portfolio without opening every repository. The profile README and portfolio website therefore lead with the current flagship work. Earlier and superseded projects remain secondary unless a specific job requires that domain or technique.
