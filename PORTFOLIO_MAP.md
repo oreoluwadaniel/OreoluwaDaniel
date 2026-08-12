@@ -60,8 +60,6 @@ Current version: [credit-risk-banking-portfolio](https://github.com/oreoluwadani
 
 Current version: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
 
-Current version: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
-
 ### Oil and gas
 
 - `rig-reliability-sql`
