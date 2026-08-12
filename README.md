@@ -1,123 +1,116 @@
 # Hi, I'm Daniel Olatunji
 
-Data Analyst & BI Consultant specializing in data quality, governance, and decision systems. I turn messy, disconnected data into dashboards, automated workflows, and decisions people can act on.
+**Data Analyst & BI Consultant | Data Quality • Decision Systems • Automation**
 
-I design data-driven solutions that enable leadership teams to make faster, smarter decisions by combining analytics, automation, and business intelligence. My work focuses on building enterprise-grade analytics frameworks, decision support systems, and intelligent automation solutions that improve operational efficiency, uncover growth opportunities, and reduce business risk.
+I turn messy, disconnected data into governed analytical systems, automated workflows, and decisions people can act on.
 
-I also work across the broader intersection of:
-
-* Business Intelligence & Decision Support
-* Workflow Automation
-* Revenue & Operations Analytics
-* Customer & Portfolio Intelligence
-* Process Optimization & Reporting Automation
+My strongest work sits at the intersection of **data analytics, business intelligence, data governance, revenue/operations intelligence, and workflow automation**. I focus on making analytical outputs defensible: clear business questions, explicit data grain, validated metrics, documented exceptions, and recommendations tied to decisions.
 
 ---
 
 ## What I Do
 
 ### Data & Analytics
-
-* Advanced SQL for business analytics and reporting
-* Exploratory Data Analysis (EDA) using Python and R
-* Statistical and predictive analytics
-* Customer, revenue, and operational analytics
-* Portfolio risk and financial analytics
-* KPI development and business performance monitoring
+- Advanced SQL for business analytics, reporting, validation, and decision support
+- Python and R for EDA, statistical analysis, forecasting, and modeling
+- Customer, revenue, operational, financial, and risk analytics
+- KPI development, metric governance, and performance monitoring
 
 ### Business Intelligence
+- Power BI, Tableau, Excel, Power Query, and Power Pivot
+- Executive reporting and decision-support systems
+- Data storytelling and analytical communication
+- Semantic/data-model design and governed reporting layers
 
-* Interactive dashboards using Power BI and Tableau
-* Executive-level reporting frameworks
-* Revenue, customer, and operational intelligence systems
-* Data storytelling and visualization
-* Decision support systems for business stakeholders
+### Data Quality & Governance
+- ETL and data transformation
+- Data profiling, deduplication, reconciliation, and exception handling
+- CRM migration and normalization
+- Data dictionaries, validation frameworks, and audit layers
 
 ### Automation & Operations
-
-* Workflow automation using Make, Zapier, GoHighLevel (GHL), and CRM platforms
-* Business process automation and optimization
-* CRM implementation and reporting automation
-* Low-code and no-code solutions for growing businesses
-* Operational analytics and intelligent workflow design
-
-### Areas of Focus
-
-* Revenue Intelligence
-* Customer Intelligence & Segmentation
-* Financial & Risk Analytics
-* CRM Migration & Data Governance
-* Churn & Retention Analytics
-* Portfolio & Performance Monitoring
-* Business Process Automation
+- Make, Zapier, GoHighLevel, and CRM workflow automation
+- Reporting automation and operational workflow design
+- CRM implementation, routing, and process optimization
+- Low-code/no-code systems for growing businesses
 
 ---
 
 ## Flagship Case Studies
 
-Each one below follows the same discipline: state the business problem, show the data quality issues found, document what the analysis actually showed (including where the first hypothesis was wrong), and end with a decision someone could act on.
+These are the projects I recommend reviewing first. Each follows the same discipline: define the business problem, establish the data grain, validate the numbers, document what went wrong, and finish with a decision someone can act on.
 
 ### [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio)
-Four Excel/Power Query ETL case studies covering CRM, HR, inventory, and sales, each built on the same data-quality engine, star-schema model, and exception-routing pipeline.
+Four Excel/Power Query ETL case studies covering CRM, HR, inventory, and sales, built around data-quality checks, star-schema models, and exception routing.
 
 ### [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
-194K-row omnichannel retail dataset. Caught and corrected a metric definition error (promotional rows being counted as orders) before it reached a KPI.
+194K-row omnichannel retail analysis covering ETL, dimensional modeling, KPI governance, forecasting, and data-quality validation. A promotion metric was caught counting order lines rather than distinct orders before it reached the final KPI.
 
 ### [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
-Migrated 7 fragmented CRM exports into a governed Company/Contact/Deal model: deduplication, stage-vocabulary normalization, and a data gap that got documented honestly instead of smoothed into a flattering number.
-
-### [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
-Python/SQL/Power BI pipeline on a 10-stock watchlist. Walk-forward ARIMA came out roughly tied with a naive baseline, and that's what got reported, instead of overselling it as a trading signal.
-
-### [WeatherIntel: Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
-NOAA station warehouse spanning up to 255 years of daily records. XGBoost next-day forecast beat both a persistence and a climatology baseline.
+Migration of seven fragmented CRM exports into a governed Company/Contact/Deal model, including profiling, normalization, deduplication, reconciliation, and documented data gaps.
 
 ### [Bloomcrest Revenue Intelligence](https://github.com/oreoluwadaniel/bloomcrest-revenue-intelligence)
-PostgreSQL revenue warehouse plus a HubSpot CRM layer, RFM/CAC/LTV segmentation, and deal-routing automation. A consulting-grade RevOps build on synthetic data.
+PostgreSQL revenue warehouse plus CRM, RFM/CAC/LTV segmentation, deal routing, and validation tests. An end-to-end RevOps intelligence system built on synthetic data.
+
+### [WeatherIntel: Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
+NOAA station warehouse with Python ingestion, PostgreSQL modeling, quality auditing, Power BI reporting, and forecast benchmarking. XGBoost is evaluated against persistence and climatology baselines rather than presented without comparison.
+
+### [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
+Python/SQL/PostgreSQL/Power BI risk-monitoring pipeline covering returns, volatility, drawdown, VaR, and walk-forward forecasting. ARIMA was reported honestly when it failed to materially beat the naive baseline.
+
+### [Brightwatt Operations Automation](https://github.com/oreoluwadaniel/Brightwatt-Operations-Automation)
+An operational system connecting customer intake, orders, inventory, payments, field service, tasks, and reporting through Airtable, Make, Google Sheets, and Looker Studio. Built/design boundaries are explicitly documented.
+
+### [A/B Testing Case Studies](https://github.com/oreoluwadaniel/ab-testing-case-studies)
+Experimentation case studies covering two-proportion tests, Mann-Whitney U, confidence intervals, multiple-testing correction, intent-to-treat analysis, power, and minimum detectable effect.
+
+---
+
+## Additional Domain Portfolios
+
+- [Credit Risk & Banking Portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio) — IFRS 9 staging, NPL monitoring, roll rates, default risk, and fraud analytics.
+- [SaaS Analytics Portfolio](https://github.com/oreoluwadaniel/saas-analytics-portfolio) — MRR/churn, product usage, and revenue leakage.
+- [Insurance Risk & Pricing Analytics](https://github.com/oreoluwadaniel/insurance-risk-pricing-analytics) — underwriting, loss ratios, pricing adequacy, and fraud indicators.
+- [Stratavax Logistics Analytics](https://github.com/oreoluwadaniel/stratavax-logistics-analytics) — delivery SLA, delay, cost, and optimization analysis.
+- [Oil & Gas Analytics Portfolio](https://github.com/oreoluwadaniel/oil-gas-analytics-portfolio) — production economics, pricing/margin, and rig reliability.
+- [Larkmoor Property Portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio) — property pricing, rental yield, vacancy, and portfolio optimization.
+- [Crestline Inventory Decision Support](https://github.com/oreoluwadaniel/crestline-inventory-decision-support) — scenario-based inventory, service-level, and working-capital decisions.
 
 ---
 
 ## Technical Skills
 
-| Category              | Technologies                                                            |
-| --------------------- | ------------------------------------------------------------------------ |
-| Programming           | SQL, Python, R                                                          |
-| Data Analytics        | Pandas, NumPy, Statistical Analysis                                     |
-| Business Intelligence | Power BI, Tableau                                                       |
-| Data Visualization    | Matplotlib, Seaborn                                                     |
-| Automation            | Make, Zapier, GoHighLevel (GHL)                                         |
-| CRM & Operations      | CRM Reporting & Workflow Automation                                     |
-| Analytics Domains     | Revenue, Customer, Financial, Risk, Operations & Supply Chain Analytics |
+| Category | Technologies |
+|---|---|
+| Programming | SQL, Python, R |
+| Analytics | Pandas, NumPy, statistics, forecasting, experimentation |
+| BI | Power BI, Tableau, Excel, Power Query, Power Pivot, DAX |
+| Data | PostgreSQL, SQL Server, data modeling, ETL, data quality |
+| Automation | Make, Zapier, GoHighLevel, CRM workflows |
+| Domains | Revenue, Customer, Operations, Supply Chain, Financial & Risk Analytics |
 
 ---
 
-## My Approach
+## How I Approach Analytics
 
-I believe analytics should do more than describe what happened. It should help businesses understand why it happened, what's likely to happen next, and what to do about it.
+I don't treat a dashboard as the finished product.
 
-Whether I'm building a revenue intelligence framework, a customer health monitoring system, or an automated reporting workflow, my focus stays the same:
+The work starts with the business decision and continues through **data grain → validation → transformation → metric definition → analysis → visualization → recommendation**.
 
-> Turning data into business intelligence that drives measurable outcomes.
+When an assumption fails, I document the failure rather than hide it. When a model does not beat a baseline, I report that result. When source data cannot support a conclusion, I state the limitation.
 
----
-
-## Writing
-
-I regularly write about:
-
-* Data Analytics
-* Business Intelligence
-* Data Storytelling
-* Automation
-* Decision Support Systems
-* Business Intelligence Frameworks
-
-Medium: https://medium.com/@oluwafikayore
+> **The goal is not more charts. The goal is more defensible decisions.**
 
 ---
 
-## Let's Connect
+## Portfolio
 
-* Email: [danolatunji25@gmail.com](mailto:danolatunji25@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/daniel-olatunji
-* GitHub: https://github.com/oreoluwadaniel
+**Full case-study portfolio:** https://oreoluwadaniel.github.io/portfolio/
+
+**GitHub:** https://github.com/oreoluwadaniel
+
+**LinkedIn:** https://www.linkedin.com/in/daniel-olatunji
+
+**Medium:** https://medium.com/@oluwafikayore
+
+**Email:** danolatunji25@gmail.com
