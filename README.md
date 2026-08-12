@@ -2,25 +2,25 @@
 
 **Data Analyst & BI Consultant | Data Quality, Decision Systems, Automation**
 
-I turn messy, disconnected data into governed analytical systems, automated workflows, and decisions people can act on.
+I help businesses clean up messy data, fix reporting problems, automate repetitive work, and build reporting systems people can actually use.
 
-My strongest work sits at the intersection of **data analytics, business intelligence, data governance, revenue and operations analytics, and workflow automation**. I focus on making analytical outputs defensible: clear business questions, explicit data grain, validated metrics, documented exceptions, and recommendations tied to decisions.
+Most of my work sits around data analytics, business intelligence, data quality, revenue and operations analytics, and workflow automation. I start with the business question, check the data behind it, build the model and analysis, then turn the result into something people can use.
 
 ---
 
 ## What I Do
 
 ### Data & Analytics
-- Advanced SQL for business analytics, reporting, validation, and decision support
-- Python and R for exploratory analysis, statistical analysis, forecasting, and modeling
-- Customer, revenue, operational, financial, and risk analytics
-- KPI development, metric definitions, and performance monitoring
+- SQL for reporting, analysis, validation, and decision support
+- Python and R for analysis, statistics, forecasting, and modelling
+- Customer, revenue, operational, financial, and risk analysis
+- KPI definitions and performance tracking
 
 ### Business Intelligence
 - Power BI, Tableau, Excel, Power Query, and Power Pivot
-- Executive reporting and decision-support systems
-- Data storytelling and analytical communication
-- Data-model design and governed reporting layers
+- Executive reporting and decision-support dashboards
+- Data storytelling and clear analytical reporting
+- Data-model design and reporting layers
 
 ### Data Quality & Governance
 - ETL and data transformation
@@ -29,52 +29,52 @@ My strongest work sits at the intersection of **data analytics, business intelli
 - Data dictionaries, validation rules, and audit trails
 
 ### Automation & Operations
-- Make, Zapier, GoHighLevel, and CRM workflow automation
-- Reporting automation and operational workflow design
-- CRM implementation, routing, and process optimization
+- Make, Zapier, GoHighLevel, and CRM workflows
+- Reporting automation and operational workflows
+- CRM implementation, routing, and process improvement
 - Low-code and no-code solutions for growing businesses
 
 ---
 
-## Flagship Case Studies
+## Projects I Recommend Looking At First
 
-These are the projects I recommend reviewing first. Each defines the business problem, establishes the data grain, validates the numbers, documents what went wrong, and finishes with a decision someone can act on.
+These are the projects that best show how I work. I define the problem, check the data, build the analysis, and document anything that does not hold up.
 
 ### [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio)
-Four Excel and Power Query ETL case studies covering CRM, HR, inventory, and sales, built around data-quality checks, star-schema models, and exception routing.
+Four Excel and Power Query case studies covering CRM, HR, inventory, and sales. Each one deals with data-quality problems instead of assuming the source data is already clean.
 
 ### [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
-194K-row omnichannel retail analysis covering ETL, dimensional modeling, KPI definitions, forecasting, and data-quality validation. A promotion metric was caught counting order lines rather than distinct orders before it reached the final KPI.
+A 194K-row retail analysis covering ETL, data modelling, KPI definitions, forecasting, and data-quality checks. One promotion metric was found to be counting order lines instead of distinct orders, so it was corrected before being used as a KPI.
 
 ### [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
-Migration of seven fragmented CRM exports into a governed Company, Contact, and Deal model, including profiling, normalization, deduplication, reconciliation, and documented data gaps.
+A CRM migration from seven inconsistent exports into Company, Contact, and Deal datasets, with profiling, normalization, duplicate review, reconciliation, and documented gaps.
 
 ### [Bloomcrest Revenue Intelligence](https://github.com/oreoluwadaniel/bloomcrest-revenue-intelligence)
-PostgreSQL revenue warehouse plus CRM, RFM, CAC, LTV segmentation, deal routing, and validation tests. Built on synthetic data with clear boundaries between implemented and proposed components.
+A PostgreSQL revenue system covering CRM data, RFM, CAC, LTV, deal routing, and validation. The data is synthetic, and the README separates what was built from what was only designed.
 
 ### [WeatherIntel: Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
-NOAA station warehouse with Python ingestion, PostgreSQL modeling, quality auditing, Power BI reporting, and forecast benchmarking against persistence and climatology baselines.
+NOAA weather records loaded into PostgreSQL, checked for quality issues, analysed in Python and SQL, and reported in Power BI. Forecasts are compared with simple baselines instead of being presented on their own.
 
 ### [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
-Python, SQL, PostgreSQL, and Power BI pipeline covering returns, volatility, drawdown, VaR, and walk-forward forecasting. ARIMA was reported as roughly tied with the naive baseline rather than presented as a successful predictor.
+A Python, SQL, PostgreSQL, and Power BI pipeline covering returns, volatility, drawdown, VaR, and walk-forward forecasting. The ARIMA model was roughly tied with the naive baseline, so the project says that plainly.
 
 ### [Brightwatt Operations Automation](https://github.com/oreoluwadaniel/Brightwatt-Operations-Automation)
-An operational system connecting customer intake, orders, inventory, payments, field service, tasks, and reporting through Airtable, Make, Google Sheets, and Looker Studio. Built and proposed components are clearly separated.
+An operations workflow connecting customer intake, orders, inventory, payments, field service, tasks, and reporting through Airtable, Make, Google Sheets, and Looker Studio. Built and proposed parts are kept separate.
 
 ### [A/B Testing Case Studies](https://github.com/oreoluwadaniel/ab-testing-case-studies)
 Experimentation case studies covering two-proportion tests, Mann-Whitney U, confidence intervals, multiple-testing correction, intent-to-treat analysis, statistical power, and minimum detectable effect.
 
 ---
 
-## Additional Domain Portfolios
+## Other Domain Work
 
-- [Credit Risk & Banking Portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio) - IFRS 9-style staging, NPL monitoring, roll rates, default risk, and fraud analytics.
+- [Credit Risk & Banking Portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio) - IFRS 9-style staging, NPL monitoring, roll rates, default risk, and fraud analysis.
 - [SaaS Analytics Portfolio](https://github.com/oreoluwadaniel/saas-analytics-portfolio) - MRR, churn, product usage, and revenue leakage.
 - [Insurance Risk & Pricing Analytics](https://github.com/oreoluwadaniel/insurance-risk-pricing-analytics) - underwriting, loss ratios, pricing adequacy, and fraud indicators.
 - [Stratavax Logistics Analytics](https://github.com/oreoluwadaniel/stratavax-logistics-analytics) - delivery SLA, delay, cost, and optimization analysis.
 - [Oil & Gas Analytics Portfolio](https://github.com/oreoluwadaniel/oil-gas-analytics-portfolio) - production economics, pricing and margin, and rig reliability.
-- [Larkmoor Property Portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio) - property pricing, rental yield, vacancy, and portfolio optimization.
-- [Crestline Inventory Decision Support](https://github.com/oreoluwadaniel/crestline-inventory-decision-support) - scenario-based inventory, service-level, and working-capital decisions.
+- [Larkmoor Property Portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio) - property pricing, rental yield, vacancy, and portfolio analysis.
+- [Crestline Inventory Decision Support](https://github.com/oreoluwadaniel/crestline-inventory-decision-support) - inventory, service-level, and working-capital analysis.
 
 ---
 
@@ -85,21 +85,21 @@ Experimentation case studies covering two-proportion tests, Mann-Whitney U, conf
 | Programming | SQL, Python, R |
 | Analytics | Pandas, NumPy, statistics, forecasting, experimentation |
 | BI | Power BI, Tableau, Excel, Power Query, Power Pivot, DAX |
-| Data | PostgreSQL, SQL Server, data modeling, ETL, data quality |
+| Data | PostgreSQL, SQL Server, data modelling, ETL, data quality |
 | Automation | Make, Zapier, GoHighLevel, CRM workflows |
 | Domains | Revenue, Customer, Operations, Supply Chain, Financial & Risk Analytics |
 
 ---
 
-## How I Approach Analytics
+## How I Work
 
 I don't treat a dashboard as the finished product.
 
-The work starts with the business decision and continues through **data grain, validation, transformation, metric definition, analysis, visualization, and recommendation**.
+I start with the business question, then work through the data, the numbers, the model, the analysis, and the recommendation.
 
-When an assumption fails, I document the failure rather than hide it. When a model does not beat a baseline, I report that result. When source data cannot support a conclusion, I state the limitation.
+If an assumption fails, I write it down. If a model does not beat a baseline, I say so. If the data cannot support a conclusion, I state the limitation instead of forcing an answer.
 
-> **The goal is not more charts. The goal is more defensible decisions.**
+> **I care more about getting the numbers right and making the result useful than filling a page with charts.**
 
 ---
 
