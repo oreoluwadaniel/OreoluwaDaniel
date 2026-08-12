@@ -1,10 +1,8 @@
 # GitHub Portfolio Map
 
-This file defines how the repositories on this account are grouped for portfolio review.
+This is the easiest way to navigate the portfolio. The projects at the top are the ones I recommend looking at first.
 
 ## Start here
-
-These are the projects that best represent my current level of work.
 
 1. [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
 2. [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
@@ -17,7 +15,7 @@ These are the projects that best represent my current level of work.
 
 ## Supporting portfolios
 
-These projects add useful domain depth but are not the first projects a recruiter needs to open.
+These are good supporting projects, but I would not start here.
 
 - [Crestline Inventory Decision Support](https://github.com/oreoluwadaniel/crestline-inventory-decision-support)
 - [Credit Risk Banking Portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio)
@@ -32,7 +30,7 @@ These projects add useful domain depth but are not the first projects a recruite
 
 ## Earlier work
 
-These projects remain public as part of the development history of the portfolio. They should not be treated as flagship work.
+These projects stay public as part of the development history of the portfolio. They are not the first projects I would send a recruiter to.
 
 - [Customer Segmentation](https://github.com/oreoluwadaniel/Customer-Segmentation)
 - [Market Basket Analysis](https://github.com/oreoluwadaniel/Market-Basket-Analysis)
@@ -43,7 +41,7 @@ These projects remain public as part of the development history of the portfolio
 
 ## Superseded case-study repositories
 
-The following repositories have already been marked in their READMEs as historical copies of work now maintained in a combined portfolio repository.
+These are older copies of work that is now kept in a combined portfolio repository. The individual READMEs point to the current version.
 
 ### Credit risk
 
@@ -53,14 +51,14 @@ The following repositories have already been marked in their READMEs as historic
 - `fraud-detection-transaction-monitoring`
 - `credit-risk-loan-default-analysis`
 
-Canonical repository: [credit-risk-banking-portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio)
+Current version: [credit-risk-banking-portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio)
 
 ### Property
 
 - `larkmoor-property-pricing-market-intelligence`
 - `larkmoor-rental-yield-portfolio-optimization`
 
-Canonical repository: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
+Current version: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
 
 ### Oil and gas
 
@@ -68,28 +66,26 @@ Canonical repository: [larkmoor-property-portfolio](https://github.com/oreoluwad
 - `oil-well-production-economics-sql`
 - `oil-gas-pricing-margin-intelligence-sql`
 
-Canonical repository: [oil-gas-analytics-portfolio](https://github.com/oreoluwadaniel/oil-gas-analytics-portfolio)
+Current version: [oil-gas-analytics-portfolio](https://github.com/oreoluwadaniel/oil-gas-analytics-portfolio)
 
 ### HR data quality
 
 - `gtech-hr-power-query-data-cleaning`
 
-Canonical repository: [hr-data-quality-transformation](https://github.com/oreoluwadaniel/hr-data-quality-transformation)
+Current version: [hr-data-quality-transformation](https://github.com/oreoluwadaniel/hr-data-quality-transformation)
 
 ## Reference or third-party repositories
 
-These are not part of my original portfolio work and should not be used to judge my engineering ability.
+These are not original portfolio projects. Their READMEs now make the source or ownership clear.
 
 - `claude-cookbooks`
 - `github-profile-readme-generator`
 - `dashboard-review-skill`
 - `awesome-claude-code-subagents`
 
-Their READMEs now state the ownership or source position clearly.
-
 ## Private repositories
 
-These remain private and are not part of the public portfolio:
+These stay private and are not part of the public portfolio:
 
 - `datasciences`
 - `job_scraper_project`
@@ -97,4 +93,4 @@ These remain private and are not part of the public portfolio:
 
 ## Curation rule
 
-A recruiter should be able to understand the current portfolio without opening every repository. The profile README and portfolio website therefore lead with the current flagship work. Earlier and superseded projects remain secondary unless a specific job requires that domain or technique.
+A recruiter should be able to understand the current portfolio without opening every repository. The profile README and portfolio website lead with the current flagship work. Older and superseded projects stay secondary unless a particular job calls for that domain or technique.
