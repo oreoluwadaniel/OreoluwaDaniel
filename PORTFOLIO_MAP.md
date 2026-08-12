@@ -4,19 +4,23 @@ This is the easiest way to navigate the portfolio. The projects at the top are t
 
 ## Start here
 
-1. [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
-2. [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
-3. [Bloomcrest Revenue Intelligence](https://github.com/oreoluwadaniel/bloomcrest-revenue-intelligence)
-4. [WeatherIntel Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
-5. [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
-6. [Brightwatt Operations Automation](https://github.com/oreoluwadaniel/Brightwatt-Operations-Automation)
-7. [Data Analytics ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio)
-8. [A/B Testing Case Studies](https://github.com/oreoluwadaniel/ab-testing-case-studies)
+These are the six repositories currently pinned on the GitHub profile:
+
+1. [Bloomcrest Revenue Intelligence](https://github.com/oreoluwadaniel/bloomcrest-revenue-intelligence)
+2. [Everdale Retail Analytics](https://github.com/oreoluwadaniel/everdale-retail-analytics)
+3. [Kavora CRM Migration & Data Governance](https://github.com/oreoluwadaniel/kavora-crm-migration-data-governance)
+4. [Stock Performance, Risk & Forecast Monitoring](https://github.com/oreoluwadaniel/stock-performance-risk-monitoring)
+5. [WeatherIntel Global Weather Analytics](https://github.com/oreoluwadaniel/weatherintel-global-weather-analytics)
+6. [Data Analytics & ETL Portfolio](https://github.com/oreoluwadaniel/data-analytics-etl-portfolio)
+
+These six give the clearest view of the main technical work. Brightwatt and A/B Testing are strong supporting projects and are featured on the public portfolio website instead of taking one of the six GitHub pin slots.
 
 ## Supporting portfolios
 
 These are good supporting projects, but I would not start here.
 
+- [Brightwatt Operations Automation](https://github.com/oreoluwadaniel/Brightwatt-Operations-Automation)
+- [A/B Testing Case Studies](https://github.com/oreoluwadaniel/ab-testing-case-studies)
 - [Crestline Inventory Decision Support](https://github.com/oreoluwadaniel/crestline-inventory-decision-support)
 - [Credit Risk Banking Portfolio](https://github.com/oreoluwadaniel/credit-risk-banking-portfolio)
 - [Insurance Risk & Pricing Analytics](https://github.com/oreoluwadaniel/insurance-risk-pricing-analytics)
