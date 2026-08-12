@@ -60,6 +60,8 @@ Current version: [credit-risk-banking-portfolio](https://github.com/oreoluwadani
 
 Current version: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
 
+Current version: [larkmoor-property-portfolio](https://github.com/oreoluwadaniel/larkmoor-property-portfolio)
+
 ### Oil and gas
 
 - `rig-reliability-sql`
@@ -91,6 +93,26 @@ These stay private and are not part of the public portfolio:
 - `job_scraper_project`
 - `TESTING`
 
+## Public repository quality bar
+
+Every public repository that remains on this account should meet the same basic standard:
+
+- clear README
+- honest project status
+- understandable purpose
+- working internal links where they are used
+- no misleading claims about results or deployment
+- no copied or third-party work presented as original
+- sensible repository name
+- sensible folder structure
+- no secrets or credentials
+- no temporary test files or junk files at the repository root
+- clear notice when the project has been superseded by another repository
+
+The standard is different for older and reference repositories. They can remain public when there is a reason to keep the history, but their README must say what they are and where the current work lives.
+
 ## Curation rule
 
 A recruiter should be able to understand the current portfolio without opening every repository. The profile README and portfolio website lead with the current flagship work. Older and superseded projects stay secondary unless a particular job calls for that domain or technique.
+
+The public website shows only a small selection of case studies. The CV can select different projects for different jobs. GitHub keeps the wider body of work available for anyone who wants to inspect it.
